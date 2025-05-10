@@ -1,0 +1,8 @@
+streamlit>=1.16.0  # or the latest stable version
+tensorflow==2.16.1
+numpy==1.26.0
+click==7.1.2
+protobuf==3.20.3
+altair==4.2.2
+pandas==2.2.3
+Pillow
