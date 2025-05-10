@@ -45,7 +45,6 @@ README.md           # This documentation
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone [https://github.com/YOUR\_USERNAME/Hypothesis-Testing-Tool](https://github.com/YOUR_USERNAME/Hypothesis-Testing-Tool)
    cd Hypothesis-Testing-Tool
 
 2. Install dependencies:
